@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-03-20 21:59:44.966808300 UTC
+// 2026-03-20 22:49:52.688115700 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -184,7 +184,6 @@ pub mod cs2_dumper {
         }
         // Module: steamclient64.dll
         pub mod steamclient64_dll {
-            pub const CLIENTENGINE_INTERFACE_VERSION005: usize = 0xFFFFFFFF8BB6677A;
             pub const IVALIDATE001: usize = 0x16998B8;
             pub const SteamClient006: usize = 0x1696D50;
             pub const SteamClient007: usize = 0x1696D58;
